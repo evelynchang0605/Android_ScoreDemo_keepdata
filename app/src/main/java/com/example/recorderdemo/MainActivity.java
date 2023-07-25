@@ -11,6 +11,8 @@ import com.example.recorderdemo.databinding.ActivityMainBinding;
 public class MainActivity extends AppCompatActivity {
     MyViewModel myViewModel;
     ActivityMainBinding binding;
+    public final static String A_Score = "my_score1";
+    public final static String B_Score = "my_score2";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
