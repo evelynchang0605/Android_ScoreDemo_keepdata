@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecorderDemo</string>
+    <string name="ImageButton1">ImageButtonBack</string>
+    <string name="ImageButton2">ImageButtonRestart</string>
+    <string name="textview1">TEAM A</string>
+    <string name="textview2">TEAM B</string>
+    <string name="textview3">A SCORE</string>
+    <string name="textview4">B SCORE</string>
+    <string name="buttonA1">+1</string>
+    <string name="buttonA2">+2</string>
+    <string name="buttonA3">+3</string>
+    <string name="buttonB1">+1</string>
+    <string name="buttonB2">+2</string>
+    <string name="buttonB3">+3</string>
+</resources>
